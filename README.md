@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:hammer: useful tools
+#### Useful tools :hammer:
 
 - [Gradient generator](https://learnui.design/tools/gradient-generator.html) - helps generate nice gradients in CSS with smoothed interpolation of the hues
 - [Colour Palettes](https://coolors.co/palettes/trending) - a search for colour palettes
