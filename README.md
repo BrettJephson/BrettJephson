@@ -24,3 +24,24 @@ Here are some ideas to get you started:
 - [Gradient generator](https://learnui.design/tools/gradient-generator.html) - helps generate nice gradients in CSS with smoothed interpolation of the hues
 - [WebPageTest](https://webpagetest.org/) - performance testing for web pages
 
+#### VS Code Extensions I'm using:
+```sh
+code --install-extension bierner.markdown-checkbox
+code --install-extension bungcip.better-toml
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension deque-systems.vscode-axe-linter
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension kumar-harsh.graphql-for-vscode
+code --install-extension mhutchie.git-graph
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension rust-lang.rust
+code --install-extension sdras.night-owl
+code --install-extension silvenon.mdx
+code --install-extension waderyan.gitblame
+```
