@@ -49,3 +49,7 @@ code --install-extension sdras.night-owl
 code --install-extension silvenon.mdx
 code --install-extension waderyan.gitblame
 ```
+
+#### Tools I've seen recommended:
+
+- [Cleanshot](https://cleanshot.com/) - screen shots and screen capture tool for Mac
