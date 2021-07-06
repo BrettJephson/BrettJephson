@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - [Gradient generator](https://learnui.design/tools/gradient-generator.html) - helps generate nice gradients in CSS with smoothed interpolation of the hues
 - [WebPageTest](https://webpagetest.org/) - performance testing for web pages
 
+#### Useful articles
+
+- [Easing gradients](https://larsenwork.com/easing-gradients/) - using easing with gradients to make them look smoother and nicer
+
 #### VS Code Extensions I'm using:
 ```sh
 code --install-extension bierner.markdown-checkbox
