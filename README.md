@@ -53,3 +53,4 @@ code --install-extension waderyan.gitblame
 #### Tools I've seen recommended:
 
 - [Cleanshot](https://cleanshot.com/) - screen shots and screen capture tool for Mac
+- [https://www.photopea.com/] - graphic design tool with Photoshop's features but open source and online
