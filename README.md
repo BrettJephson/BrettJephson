@@ -50,7 +50,18 @@ code --install-extension silvenon.mdx
 code --install-extension waderyan.gitblame
 ```
 
-#### Tools I've seen recommended:
+#### Tools I want to try out:
 
 - [Cleanshot](https://cleanshot.com/) - screen shots and screen capture tool for Mac
 - [Photopea](https://www.photopea.com/) - graphic design tool with Photoshop's features but open source and online
+
+#### Rust
+
+Started learning Rust. 
+
+Some useful crates:
+
+```shell
+cargo install cargo-edit
+cargo install cargo-watch```
+
