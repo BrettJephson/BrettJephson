@@ -63,5 +63,6 @@ Some useful crates:
 
 ```shell
 cargo install cargo-edit
-cargo install cargo-watch```
+cargo install cargo-watch
+```
 
