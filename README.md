@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - [Carbon](https://carbon.now.sh/) - generate pretty code samples
 - [Gradient generator](https://learnui.design/tools/gradient-generator.html) - helps generate nice gradients in CSS with smoothed interpolation of the hues
 - [WebPageTest](https://webpagetest.org/) - performance testing for web pages
+- [Josh Comeau's shadow generator](https://www.joshwcomeau.com/shadow-palette/) - generates fancy shadows.
 
 #### Useful articles
 
 - [Easing gradients](https://larsenwork.com/easing-gradients/) - using easing with gradients to make them look smoother and nicer
+- [Intro to shadow paletter generator](https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/) - accompanying article for Josh Comeau's shadow generator tool
 
 #### VS Code Extensions I'm using:
 ```sh
