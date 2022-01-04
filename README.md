@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 #### Useful articles
 
 - [Easing gradients](https://larsenwork.com/easing-gradients/) - using easing with gradients to make them look smoother and nicer
-- [Intro to shadow paletter generator](https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/) - accompanying article for Josh Comeau's shadow generator tool
+- [Intro to shadow palette generator](https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/) - accompanying article for Josh Comeau's shadow generator tool
 
 #### VS Code Extensions I'm using:
 ```sh
