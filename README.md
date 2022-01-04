@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - [Gradient generator](https://learnui.design/tools/gradient-generator.html) - helps generate nice gradients in CSS with smoothed interpolation of the hues
 - [WebPageTest](https://webpagetest.org/) - performance testing for web pages
 - [Josh Comeau's shadow generator](https://www.joshwcomeau.com/shadow-palette/) - generates fancy shadows.
+- [Sprite generator](https://www.toptal.com/developers/css/sprite-generator/) - generate spritesheets for use in CSS
 
 #### Useful articles
 
